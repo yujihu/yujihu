@@ -17,10 +17,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-[![JihuYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujihu&theme=buefy)](https://github.com/yujihu)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujihu&layout=compact&theme=buefy)](https://juejin.cn/user/1662117309592254)
+[![JihuYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujihu&theme=gruvbox_light)](https://github.com/yujihu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujihu&layout=compact&theme=gruvbox_light)](https://juejin.cn/user/1662117309592254)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yujihu&repo=vue-spa-template&theme=buefy)](https://github.com/yujihu/vue-spa-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yujihu&repo=vue-mpa-template)](https://github.com/yujihu/vue-mpa-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yujihu&repo=react-spa-template&theme=buefy)](https://github.com/yujihu/react-spa-template)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yujihu&repo=utils&theme=buefy)](https://github.com/yujihu/utils)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yujihu&repo=vue-spa-template&theme=gruvbox_light)](https://github.com/yujihu/vue-spa-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yujihu&repo=vue-mpa-template&theme=gruvbox_light)](https://github.com/yujihu/vue-mpa-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yujihu&repo=react-spa-template&theme=gruvbox_light)](https://github.com/yujihu/react-spa-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yujihu&repo=utils&theme=gruvbox_light)](https://github.com/yujihu/utils)
